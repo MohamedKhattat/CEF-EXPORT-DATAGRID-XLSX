@@ -62,9 +62,7 @@ The following screenshot illustrates the RowHeader displayed in [WPF DataGrid](h
 The following screenshot illustrates exported Excel Sheet with RowHeader,
 ![SfDataGrid with Rowheader exported excel sheet](ExportedExcelSheet.png)
 
-Take a moment to peruse the [WPF DataGrid - Export To Excel](https://help.syncfusion.com/wpf/datagrid/export-to-excel) documentation, where you can find about export to excel with code examples.
 
-KB article: [How to export the WPF DataGrid (SfDataGrid) to excel with RowHeader?](https://www.syncfusion.com/kb/12788/how-to-export-the-wpf-datagrid-sfdatagrid-to-excel-with-rowheader)
 
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
